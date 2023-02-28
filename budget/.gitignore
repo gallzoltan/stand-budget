@@ -11,3 +11,4 @@ budget-api/.classpath
 budget-api/.project
 budget-api/.settings/
 budget-api/target/
+budget-api/src/main/resources/static/*
