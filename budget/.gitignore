@@ -1,0 +1,13 @@
+# Eclipse #
+/.project
+/.settings
+bin/**
+
+budget-web/.classpath
+budget-web/.project
+budget-web/.settings/
+budget-web/target/
+budget-api/.classpath
+budget-api/.project
+budget-api/.settings/
+budget-api/target/
